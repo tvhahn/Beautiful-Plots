@@ -8,7 +8,7 @@ A collection of beautiful plots, and other data visualization stuff.
 
    * [The Decision Boundary](https://github.com/tvhahn/Beautiful-Plots/blob/master/Decision%20Boundary/decision-boundary.ipynb) - Visualizing the decision boundary of a KNN classifier. Also published on my blog, tvhahn.com. 
 
-      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Beautiful-Plots/blob/master/Decision%Boundary/decision-boundary.ipynb)
+      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Beautiful-Plots/blob/master/Decision%20Boundary/decision-boundary.ipynb)
 
 <div style="text-align: left; ">
 <figure>
