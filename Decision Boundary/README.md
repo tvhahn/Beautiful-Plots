@@ -19,10 +19,9 @@ Machine learning is filled with many complex topics. During my thesis writing, I
 <figure>
   <img src="./img/original_decision.png" alt="original decision boundary plot" style="background:none; border:none; box-shadow:none; text-align:center" width="700px"/>
   <!-- <div style="text-align: left; "> -->
-  <figcaption style="color:grey; font-size:smaller">The KNN decision boundary plot on the Iris data set. Originally created in R with ggplot (Image from <a href="https://stackoverflow.com/a/31236327/9214620">Igautier on stackoverflow</a>)</figcaption>
-  <!-- </div> -->
 </figure>
 </div>
+
 
 
 
