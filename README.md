@@ -14,5 +14,16 @@ A collection of beautiful plots, and other data visualization stuff.
 <figure>
        <img src="./Decision Boundary/img/knn.png" alt="knn decision boundary plot" style="background:none; border:none; box-shadow:none; text-align:center" width="500px"/>
 </figure>
+</div>
+
+
+* [The Lollipop](https://github.com/tvhahn/Beautiful-Plots/tree/master/Lollipop) - Creating a lollipop chart (also called a dot plot, or Cleveland plot) to visualize differences in ML model results. Also published on my blog, [tvhahn.com](https://www.tvhahn.com/posts/beautiful-plots-lollipop/). 
+  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Beautiful-Plots/blob/master/Lollipop/lollipop.ipynb)
+
+<div style="text-align: left; ">
+<figure>
+       <img src="./Lollipop/img/beautiful_lollipop.png" alt="knn decision boundary plot" style="background:none; border:none; box-shadow:none; text-align:center" width="500px"/>
+</figure>
  </div>
 
