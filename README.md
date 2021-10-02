@@ -27,3 +27,15 @@ A collection of beautiful plots, and other data visualization stuff.
 </figure>
  </div>
 
+
+ * [The Violin](https://github.com/tvhahn/Beautiful-Plots/tree/master/Violin) - Creating a violin plot to visualize the monthly pattern in births, in the USA, from 1981 to 2019. Also published on my blog, [tvhahn.com](https://www.tvhahn.com/posts/beautiful-plots-violin/). 
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Beautiful-Plots/blob/master/Violin/violin_plot.ipynb)
+
+<div style="text-align: left; ">
+<figure>
+       <img src="./Violin/img/violin_births.svg" alt="violin plot of birth changes" style="background:none; border:none; box-shadow:none; text-align:center" width="500px"/>
+</figure>
+ </div>
+
+
